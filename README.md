@@ -1,6 +1,6 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=MehedilslamRipon&label=Profile%20views&color=0e75b6&style=flat" alt="MehedilslamRipon" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
 
-## Hey!, I'm [Valmar Júnior!](https://github.com/valms/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+## Hey, I'm [Valmar Júnior!](https://github.com/valms/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### Glad to see you here! :octocat:
 
