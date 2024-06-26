@@ -40,7 +40,7 @@ When I'm not coding, you can find me exploring the latest developments in softwa
 ### :dart: Languages and Tools:
 > Tools, languages, and other things that I like to work with.
 
-[![Java, Python, Go, Rust, Spring, Maven, Gradle, Docker, Kubernetes, AWS, GCP, MySQL, PostgreSQL, MongoDB, Redis, Kafka, Git, GitHub, IntelliJ IDEA, VSCode, Linux, Bash, Jenkins, Terraform, Prometheus, Grafana](https://skillicons.dev/icons?i=java,python,go,rust,spring,maven,gradle,docker,kubernetes,aws,gcp,mysql,postgres,mongodb,redis,kafka,git,github,idea,vscode,linux,bash,jenkins,terraform,prometheus,grafana)](https://github.com/YourGithubUsername)
+[![Java, Python, Go, Rust, Spring, Maven, Gradle, Docker, Kubernetes, AWS, GCP, MySQL, PostgreSQL, MongoDB, Redis, Kafka, Git, GitHub, IntelliJ IDEA, VSCode, Linux, Bash, Jenkins, Terraform, Prometheus, Grafana](https://skillicons.dev/icons?i=java,python,go,rust,spring,maven,gradle,docker,kubernetes,aws,gcp,mysql,postgres,mongodb,redis,kafka,git,github,idea,vscode,linux,bash,jenkins,terraform,prometheus,grafana)](https://github.com/valms)
 
 
 ### ☄️ Github Streaks:
