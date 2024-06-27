@@ -4,13 +4,9 @@
 
 ### Glad to see you here! :octocat:
 
-I am a mid-level software engineer from Brazil with expertise in multiple programming languages. I specialize in Java, have advanced skills in Go, and possess intermediate knowledge of Python. Currently, I'm expanding my horizons by learning Rust.
+Mid-level software engineer from Brazil, skilled in Java, Go, and Python, now venturing into Rust. I thrive on crafting efficient software solutions, adhering to best practices for clean code and effective architectures. Over the years, I've driven and participated in various complex projects, delivering quality software through my technical prowess.
 
-My passion lies in creating robust and efficient software solutions, always striving to apply best practices in development. I have a keen eye for clean code and well-designed architectures. With years of experience in the field, I've successfully led and contributed to numerous complex projects, leveraging my technical skills to deliver high-quality software.
-
-I'm constantly seeking to improve my skills and stay updated on the latest trends in technology. My goal is to continue growing as a developer, contribute to impactful projects, and apply my expertise to create value through software. I'm excited about the prospect of tackling new challenges and applying my creativity and technical knowledge to innovative teams and projects.
-
-When I'm not coding, you can find me exploring the latest developments in software engineering or contributing to open-source projects. I'm always eager to share my knowledge and learn from others in the tech community.
+As a developer committed to growth, I embrace new challenges and opportunities to make significant contributions to projects. Beyond writing code, I stay informed on the latest software engineering trends and actively participate in the open-source community, exchanging insights and learning alongside fellow professionals.
 
 ---
 
