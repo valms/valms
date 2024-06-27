@@ -21,13 +21,15 @@ When I'm not coding, you can find me exploring the latest developments in softwa
 
 
 
-- 💼 &nbsp; Currently working as a Mid-Level Software Engineer at [Itaú](https://github.com/itau) group, Brazil's largest bank.
-- 💻 &nbsp; I love diving deep into complex software architectures and optimizing performance.
-- 📚 &nbsp; Always reading tech articles and staying updated with the latest in Java, Go, and Rust.
-- 🍺 &nbsp; Enjoying craft beers while discussing software design patterns.
-- 🚀 &nbsp; Currently exploring Rust and its applications in systems programming.
-- 🌟 &nbsp; Always excited about optimizing algorithms and improving code efficiency.
-- 🔧 &nbsp; Experienced in developing robust financial systems and microservices.
+- 💼 &nbsp; Mid-Level Software Engineer at [Itaú](https://github.com/itau), Brazil's premier bank, where I apply my skills to develop innovative financial systems.
+- 🎓 Graduate in Computer Science from [Universidade de Fortaleza](https://www.unifor.br/international), Brazil.
+- 💻 Backend tech enthusiast, always looking for ways to optimize and innovate.
+- 📚 Constantly learning, currently deep into Java, Go, and exploring Rust.
+- 🍺 Enjoy a good craft beer while discussing software patterns.
+- 🚀 Curious explorer of tech, expanding my skill set across languages.
+- 🔧 Crafting robust financial systems and microservices, because I love a challenge.
+- 🎮 Off-hours, you'll find me strategizing in World of Warcraft.
+
 
 
 <div align="center">
