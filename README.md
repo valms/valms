@@ -26,15 +26,18 @@ When I'm not coding, you can find me exploring the latest developments in softwa
 - 📚 &nbsp; Always reading tech articles and staying updated with the latest in Java, Go, and Rust.
 - 🍺 &nbsp; Enjoying craft beers while discussing software design patterns.
 - 🚀 &nbsp; Currently exploring Rust and its applications in systems programming.
-- 👾 &nbsp; Fun Fact: In Go, you can have a struct with no fields, known as an empty struct!
 - 🌟 &nbsp; Always excited about optimizing algorithms and improving code efficiency.
 - 🔧 &nbsp; Experienced in developing robust financial systems and microservices.
 
 
-&nbsp; &nbsp; &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/valmarjunior/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dev.fjunior@gmail.com?subject=Hello%20Valmar,%20From%20Github) &nbsp;
-
+<div align="center">
+    <a href="https://www.linkedin.com/in/valmarjunior/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dev.fjunior@gmail.com?subject=Hello%20Valmar,%20From%20Github">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+</div>
 ---
 
 ### :dart: Languages and Tools:
